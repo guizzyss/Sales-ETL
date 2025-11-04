@@ -26,6 +26,6 @@ def get_db_connection():
     
 # Exemplo de uso
 # conn = get_db_connection()
-#if conn:
+# if conn:
 #    print("Tudo certo!")
 #    conn.close()
