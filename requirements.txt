@@ -16,5 +16,6 @@ sqlite3
 
 #SQLAlchemy para ORM (for ORM):
 SQLAlchemy
+
 #Para realizar os testes (To perform testing):
 pytest
