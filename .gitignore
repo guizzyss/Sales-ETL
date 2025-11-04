@@ -1,1 +1,59 @@
+# ===========================
+#   PYTHON BASICS
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===========================
+#   AMBIENTE VIRTUAL
+# ===========================
+venv/
+env/
+.venv/
+
+# ===========================
+#   VARIÁVEIS DE AMBIENTE
+# ===========================
 .env
+*.env
+secrets/
+*.key
+*.pem
+
+# ===========================
+#   CONFIGURAÇÕES LOCAIS
+# ===========================
+.vscode/
+.idea/
+*.log
+
+# ===========================
+#   DADOS E SAÍDAS
+# ===========================
+data/*.csv
+data/*.json
+data/*.db
+output/
+*.tmp
+*.bak
+*.swp
+
+# ===========================
+#   TESTES E RELATÓRIOS
+# ===========================
+htmlcov/
+.coverage
+.cache/
+*.cover
+*.py,cover
+nosetests.xml
+coverage.xml
+*.pytest_cache/
+tests/__pycache__/
+
+# ===========================
+#   SISTEMA / SO
+# ===========================
+.DS_Store
+Thumbs.db
