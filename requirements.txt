@@ -1,0 +1,20 @@
+#Para manipulação de dados (Pandas for data manipulation):
+pandas
+
+#Para carregar variáveis de ambiente (To load environment variables):
+python-dotenv
+
+#Para conectar ao banco de dados PostgreSQL (To connect to PostgreSQL database):
+psycopg2
+
+#Alternativas para MySQL e SQLite (Alternatives for MySQL and SQLite):
+#MySQL:
+mysql-connector-python
+
+#SQLite:
+sqlite3
+
+#SQLAlchemy para ORM (for ORM):
+SQLAlchemy
+#Para realizar os testes (To perform testing):
+pytest
