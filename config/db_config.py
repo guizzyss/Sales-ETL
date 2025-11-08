@@ -25,7 +25,7 @@ def get_db_connection():
         return None
     
 # Exemplo de uso
-conn = get_db_connection()
-if conn:
-    print("Tudo certo!")
-    conn.close()
+# conn = get_db_connection()
+# if conn:
+#     print("Tudo certo!")
+#     conn.close()

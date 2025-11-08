@@ -2,11 +2,9 @@
 #Script that connects to the database and extracts the necessary data
 
 import pandas as pd
-from config.db_config import get_db_connection
 import logging
+from config.db_config import get_db_connection
 
-# Configuração do logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 def read_data(query):
