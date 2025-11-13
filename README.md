@@ -1,4 +1,4 @@
-# Projeto SALES-ETL
+# ETL de Vendas
 
 Um pipeline de ETL (Extract, Transform, Load) para processar dados de vendas.
 
