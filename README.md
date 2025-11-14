@@ -1,4 +1,4 @@
-# Projeto SALES-ETL
+# ETL de Vendas
 
 Um pipeline de ETL (Extract, Transform, Load) para processar dados de vendas.
 
@@ -10,7 +10,7 @@ Este projeto extrai dados brutos de vendas de um banco de dados, realiza transfo
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL-DO-SEU-REPOSITORIO]
+    git clone [url-repositorio]
     cd SALES-ETL
     ```
 
